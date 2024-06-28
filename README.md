@@ -4,6 +4,7 @@ We aim to determine whether these metrics reflect the similarity in a manner con
 
 All the mentioned algorithms belong to the library of matchms, an open-source Python package developed for importing, processing, and comparing MS/MS. The library transforms a massive amount of data, in this case of mass spectra from metabolites into a large processed spectral data enabling the similarity comparisons. 
 To employ matchms is necessary to create the appropriate environment to make use of it, following the next steps:
+
 • Install matchms in a new virtual environment on the terminal of our computer with conda.
 - With Anaconda Navigator (a software that provides an interface) change the digital 
 environment to the created one, in this case“proyecto”, where are installed libraries
